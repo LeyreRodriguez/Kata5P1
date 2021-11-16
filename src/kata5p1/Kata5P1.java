@@ -6,8 +6,6 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class Kata5P1 {
-
-
     public static void main(String[] args) {
         createNewTable();
     }
